@@ -1,4 +1,4 @@
-import { Button, Flex, FormHelperText, Grid, GridItem, Image, Text } from "@chakra-ui/react";
+import { Button, Flex, Grid, Image, Text } from "@chakra-ui/react";
 import { FC } from "react";
 
 const Home: FC = () => {
