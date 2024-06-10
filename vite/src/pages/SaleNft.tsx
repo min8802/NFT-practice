@@ -59,7 +59,6 @@ const SaleNft: FC = () => {
 
   return (
     <Flex
-      bgColor="red.100"
       w="100%"
       alignItems="center"
       flexDir="column"
