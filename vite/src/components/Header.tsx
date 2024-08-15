@@ -123,7 +123,7 @@ import {
             </Menu>
           ) : (
             <Button onClick={onClickMetamask} size={["xs", "xs", "md"]}>
-              🦊 메마로그인
+              🦊 로그인
             </Button>
           )}
         </Flex>
